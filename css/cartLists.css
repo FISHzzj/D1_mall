@@ -1,0 +1,147 @@
+body{
+	width:100%;
+	background-color: #fff;
+}
+#clheader{
+	width:887px;
+	height:43px;
+	/*border: 1px solid red;*/
+	margin:0 auto;
+}
+.list{
+    float:right;
+}
+.list li{
+    float:left;
+    line-height:20px;
+    padding:2px;
+}
+.list li a{
+   font-weight: bold;
+	color:#8cc341;
+}
+#clheader p{
+	float: right;
+	padding-top: 10px;
+	color:#4b4b4b;
+	font-family: "微软雅黑";
+}
+/*#clheader p a:nth-child(1),#clheader p a:nth-child(2){
+	font-weight: bold;
+	color:#8cc341;
+
+}
+#clheader p a:last-child{
+	display: inline-block;
+	margin-left: 100px;
+}*/
+/*#clheader p ul li a:hover{
+	color:#aa2e44;
+	font-weight: bold;
+}*/
+#clcenter{
+	width:887px;
+	margin:0 auto;
+}
+#clcenter .car_title{
+	width:867px;
+	height:40px;
+	background:#ffecf2;
+	color: #3e3c3d;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	padding-left: 20px;
+	line-height: 40px;
+	font-weight: bold;
+}
+#clcenter .car_tip{
+	width:887px;
+	height: 61px;
+	line-height: 61px;
+	color: #3e3c3d;
+	padding-left: 20px;
+	font-weight: bold;
+	font-size: 14px;
+}
+#clcenter #cart_goods_area{
+	width:887px;
+	/*height: 158px;*/
+	font-size: 14px;
+	color:#68696b; 
+}
+#clcenter #cart_goods_area span{
+
+}
+#clcenter #cart_goods_area table{
+	width:887px;
+
+}
+#cart_goods_area table tr th{
+	height:36px;
+	text-align: left;
+}
+#cart_goods_area table thead{
+	background-color: #DDDDDD;
+	color:#68696b;
+	font-size: 14px;
+	font-weight: normal;
+}
+#cart_goods_area table tr td{
+	height: 101px;
+	text-align: left;
+	background-color: #FFFDDD;
+	padding-right: 5px;
+}
+#cart_goods_area table tbody tr td:nth-child(2) a{
+	color:#325bc4;
+	text-decoration: underline;
+	line-height: 16px;
+}
+#cart_goods_area table tbody tr td:nth-child(6){
+	
+} 
+#cart_goods_area table tbody tr td:nth-child(6) input{
+	width: 32px;
+	height: 17px;
+	text-align: center;
+}
+#clcenter .total_area,.check_btn_area{
+	width: 887px;
+	height: 43px;
+	text-align: right;
+	color: #68696b;
+	font-size: 14px;
+
+}
+.total_area span:last-child{
+	color: #AE2A4E;
+	font-weight: bold;
+	padding-right: 20px;
+}
+#clcenter .check_btn_area a:first-child{
+	color: #325bc4;
+}
+#clcenter .check_btn_area a:last-child{
+	padding-right: 20px;
+}
+#clcenter .mstext{
+	font-size: 14px;
+	color: #5D6267;
+	width: 887px;
+	height: 95px;
+	background-color:#FFFDDD;
+	line-height: 95px;		 
+}
+#clcenter .mstext p{
+	height: 14px;
+	line-height: 14px;
+	padding:10px 10px;
+}
+
+
+
+
+
+
+
+
